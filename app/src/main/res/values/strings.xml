@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string-array name="Counting">
+        <item>Words</item>
+        <item>Chars</item>
+    </string-array>
+</resources>
